@@ -9,3 +9,4 @@ def remove_duplicates(strings):
 string_list = ["apple", "banana", "apple", "orange", "banana", "grape"]
 result = remove_duplicates(string_list)
 print("List without duplicates:", result)
+printrint("Training for EEE Class")
